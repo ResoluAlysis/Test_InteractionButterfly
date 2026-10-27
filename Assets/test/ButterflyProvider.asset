@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157214cd56db4011bfbcab582e8143af, type: 3}
+  m_Name: ButterflyProvider
+  m_EditorClassIdentifier: 
+  entries:
+  - prefab: {fileID: 6318280174310881958, guid: 45b4317bbbb014a4a9fd533483f7c1c4,
+      type: 3}
+    weight: 10
+    label: "\u767D"
+  - prefab: {fileID: 6318280174310881958, guid: ac94e430b1f74444ead9bd8f0b564b31,
+      type: 3}
+    weight: 5
+    label: "\u7EA2"
+  - prefab: {fileID: 6318280174310881958, guid: 7959ce5fe8040e6479d5b0b260cecb5d,
+      type: 3}
+    weight: 5
+    label: "\u9752"
+  - prefab: {fileID: 6318280174310881958, guid: e253db9e9317c0e4fae45f9c21a2cf91,
+      type: 3}
+    weight: 5
+    label: "\u9EC4"
+  - prefab: {fileID: 6318280174310881958, guid: 1ff058dea49bfd1489df9d2af5eb3d5a,
+      type: 3}
+    weight: 5
+    label: "\u7EFF"
+  - prefab: {fileID: 6318280174310881958, guid: 3fb7b77d2114bad41a40a1a878142fda,
+      type: 3}
+    weight: 1
+    label: "\u9ED1"
+  mode: 1
+  restartRoundWhenExhausted: 1

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Water
+  - ScreenPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0_Background
+    uniqueID: 2015688935
+    locked: 0
+  - name: 1_BgEffect
+    uniqueID: 109249963
+    locked: 0
+  - name: 2_Game
+    uniqueID: 3715738075
+    locked: 0
+  - name: 3_GameEffect
+    uniqueID: 1074554697
+    locked: 0
+  - name: 4_UI
+    uniqueID: 625755177
+    locked: 0
